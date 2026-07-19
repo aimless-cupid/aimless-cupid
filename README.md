@@ -13,7 +13,7 @@ correct fix was rather than the fast one.
 
 - **Running in production:** `deadline-bot` — my first real system, live with users
 - **Learning:** AWS (Solutions Architect – Associate), containers, testing with pytest
-- **Practicing:** DSA in Python — open pattern log at [dsa-patterns](https://github.com/<username>/dsa-patterns)
+- **Practicing:** DSA in Python
 - **Next build:** a retrieval-based system
 
 ---
