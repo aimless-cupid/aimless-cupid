@@ -39,4 +39,4 @@ AWS (SAA-C03) · Docker · pytest · retrieval systems and evaluation
 ---
 
 ### Reach me
-[LinkedIn](www.linkedin.com/in/t-sriharsha-p) · <t.sriharsha.p@gmail.com>
+[LinkedIn](https://www.linkedin.com/in/t-sriharsha-p) · <t.sriharsha.p@gmail.com>
