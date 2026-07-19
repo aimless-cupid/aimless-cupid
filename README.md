@@ -26,7 +26,7 @@ on a dashboard, so it stops getting buried in group chats.
 
 `Python` · `FastAPI` · `PostgreSQL` · `Gemini via raw REST` · `Telegram webhooks` · `Render`
 
-**30 users · 200+ real announcements processed · ~2s end to end**
+**20 users · 150+ real announcements processed · ~2s end to end**
 
 ---
 
