@@ -20,7 +20,7 @@ correct fix was rather than the fast one.
 
 ### Shipped
 
-**[deadline-bot](https://github.com/<username>/deadline-bot)** · **[live](https://deadline-bot-pgx8.onrender.com/)**
+**[deadline-bot](https://github.com/t-sriharsha-p/deadline-bot)** · **[live](https://deadline-bot-pgx8.onrender.com/)**
 Forward an announcement to a Telegram bot; it extracts the deadline and surfaces it
 on a dashboard, so it stops getting buried in group chats.
 
@@ -39,4 +39,4 @@ AWS (SAA-C03) · Docker · pytest · retrieval systems and evaluation
 ---
 
 ### Reach me
-[LinkedIn](www.linkedin.com/in/sriharsha-pranav-totapalli-47278241b) · <t.sriharsha.p@gmail.com>
+[LinkedIn](www.linkedin.com/in/t-sriharsha-p) · <t.sriharsha.p@gmail.com>
